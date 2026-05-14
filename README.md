@@ -12,7 +12,7 @@ Diese Datenschutzerklärung informiert darüber, welche Daten der Discord‑Bot 
 Verantwortlich für die Datenverarbeitung im Zusammenhang mit diesem Bot ist:
 
 Blaulichtfriend
-Kontakt:-
+Kontakt: no.reply-blaulichtfriend-dc@gmx.de
 
 
 ---
